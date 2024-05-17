@@ -15,13 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsingh-git-codes](https://github.com/shivamsingh-git-codes)
 
-- 📝 I regularly write articles on [https://www.instagram.com/shivamsingh.shandilya/](https://www.instagram.com/shivamsingh.shandilya/)
-
 - 💬 Ask me about **express,PostgreSQL**
 
 - 📫 How to reach me **shivam.sk7654321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dWiYqComAepaHIs8WDP4XMuZo1-Dg3JH/view?usp=sharing](https://drive.google.com/file/d/1dWiYqComAepaHIs8WDP4XMuZo1-Dg3JH/view?usp=sharing)
+- 📄 Know about my experiences [**Resume 📝**](https://drive.google.com/file/d/1dWiYqComAepaHIs8WDP4XMuZo1-Dg3JH/view?usp=sharing)
 
 - ⚡ What do developers say when they're about to leave for vacation? **I'm going to git checkout for a while!**
 
