@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsingh-git-codes](https://github.com/shivamsingh-git-codes)
 
-- 💬 Ask me about **express,PostgreSQL**
-
 - 📫 How to reach me **shivam.sk7654321@gmail.com**
 
 - 📄 Know about my experiences [**Resume 📝**](https://drive.google.com/file/d/1dWiYqComAepaHIs8WDP4XMuZo1-Dg3JH/view?usp=sharing)
